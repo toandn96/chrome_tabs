@@ -1,12 +1,6 @@
-### Chrome Tabs in Chrome
+### Retail Tabs
 
-Exactly what you think this is. Go wild.
-
-Drag-and-drop support provided by [Draggabilly](https://github.com/desandro/draggabilly) by @desandro.
-
-### [Live demo](http://adamschwartz.co/chrome-tabs/)
-
-<img width=714 src=http://adamschwartz.co/chrome-tabs/chrome-tabs.gif>
+<img width=714 src=https://product.hstatic.net/1000305815/product/capture_f9cf4e888a42400c9c4a283104b95b15_grande.png>
 
 <br>
 
